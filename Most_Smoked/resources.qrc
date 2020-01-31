@@ -1,0 +1,34 @@
+<RCC>
+    <qresource prefix="/textures">
+        <file>resources/textures/0-star.png</file>
+        <file>resources/textures/1-star.png</file>
+        <file>resources/textures/2-stars.png</file>
+        <file>resources/textures/3-stars.png</file>
+        <file>resources/textures/4-stars.png</file>
+        <file>resources/textures/5-stars.png</file>
+        <file>resources/textures/client.png</file>
+        <file>resources/textures/hostile2.png</file>
+        <file>resources/textures/player2.png</file>
+        <file>resources/textures/police.png</file>
+        <file>resources/textures/brickWall.jpg</file>
+        <file>resources/textures/concrete.jpg</file>
+        <file>resources/textures/hostile3.png</file>
+        <file>resources/textures/bomb.png</file>
+        <file>resources/textures/NFW.jpg</file>
+    </qresource>
+    <qresource prefix="/musics">
+        <file>resources/musics/baki_2018_OST_Tension.mp3</file>
+        <file>resources/musics/warsongs_PiercingLight(MakoRemix)Music-LeagueofLegends.mp3</file>
+        <file>resources/musics/RidersOnTheStorm.mp3</file>
+    </qresource>
+    <qresource prefix="/sounds">
+        <file>resources/sounds/bullet.ogg</file>
+        <file>resources/sounds/cash.ogg</file>
+        <file>resources/sounds/levelup.ogg</file>
+        <file>resources/sounds/nani.ogg</file>
+        <file>resources/sounds/oof.ogg</file>
+        <file>resources/sounds/ugh.ogg</file>
+        <file>resources/sounds/wasted.ogg</file>
+        <file>resources/sounds/SmokeWeedEveryday.ogg</file>
+    </qresource>
+</RCC>
